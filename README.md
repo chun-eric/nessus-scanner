@@ -51,6 +51,8 @@ Observe the wiped disk:  <br/>
 </p>
 
 
+
+
 <h3>Step 2 - Install Windows ISO image on Virtual Box</h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
