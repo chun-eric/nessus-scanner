@@ -30,7 +30,9 @@ address the identified vulnerabilities.
 <p>A Windows image, in simple terms, is like a snapshot or a picture of the Windows operating system and the programs installed on it at a specific point in time.  </p>
 It's a complete package that contains all the files and settings needed to set up or restore a Windows computer to a particular state.
 <br/>
+<br/>
 We want to use this windows so we can install it in VirtualBox which is a virtual machine. 
+<br/>
 <br/>
 Virtual machines if configured correctly are like another computer within our computer and wont affect the host machine.
 <br/>
