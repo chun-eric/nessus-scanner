@@ -46,10 +46,13 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 <br></br>
 <h3>Step 2 - Download and Install Windows ISO image on VirtualBox</h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+First download VirtualBox
 <br />
-Select the disk:  <br/>
+https://www.virtualbox.org/
+<br/>
+After downloading the program, go through the installation process.
+<br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
