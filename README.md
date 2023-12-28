@@ -50,6 +50,7 @@ First download VirtualBox
 <br />
 https://www.virtualbox.org/
 <br/>
+<br/>
 After downloading the program, go through the installation process.
 <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
