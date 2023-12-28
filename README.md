@@ -23,10 +23,8 @@ address the identified vulnerabilities.
 
 <p align="center">
 <h3>Step 1 - Download Windows Image</h3>
-<p>Why do we have to download a windows image? What is it even? 
-Windows operating system and the programs installed on it at a specific point in time. 
-</p>
-<p>A Windows image, in simple terms, is like a snapshot or a picture of the  </p>
+<p>Why do we have to download a windows image? What is it even? </p>
+<p>A Windows image, in simple terms, is like a snapshot or a picture of the Windows operating system and the programs installed on it at a specific point in time.  </p>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
