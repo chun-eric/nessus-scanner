@@ -150,7 +150,7 @@ Do the following:
 <p>Other computers on the network can communicate directly with the virtual machine.
 </p>
 <br/>
-<img src="11" height="80%" width="80%" alt=""/>
+<img src="12" height="80%" width="80%" alt=""/>
 <br/>
 <p>To confirm we are on the same network, we can try a simple ping test.</p>
 <p>Open a command prompt application or type cmd in the search box and run the command prompt as administrator.</p>
@@ -161,7 +161,7 @@ Do the following:
 <p>type type ping 192.168.0.105 (or your vm ip address)</p>
 <p>If we get a reply back that means the connection is good.</p>
 <br/>
-<img src="12" height="80%" width="80%" alt=""/>
+<img src="13" height="80%" width="80%" alt=""/>
 
 
 
