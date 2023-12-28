@@ -63,6 +63,8 @@ Complete Username and Password.
 <br/>
 <br/>
 <p>Add Hostname and Domain Name</p>
+<a href="https://ibb.co/KwrZLwr"><img src="https://i.ibb.co/vYj5QYj/1.png" alt="1" border="0" /></a>
+<br/>
 
 <p>Click --> Next --> Choose your hardware, base memory, processors.
 </p>
@@ -81,12 +83,12 @@ In VirtualBox:
 Devices > Upgrade Guest Additions
 <br/>
 <br/>
-<a href="https://ibb.co/KwrZLwr"><img src="https://i.ibb.co/vYj5QYj/1.png" alt="1" border="0" /></a>
+<a href="https://ibb.co/M75HdHK"><img src="https://i.ibb.co/6FJSQSG/2.png" alt="2" border="0" /></a>
 <br />
 <br />
-Now we are ready to start the project.
+Now that everything is installed, we are ready to start the project.
 <br/>
-<img src="2" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/J7bN0M4"><img src="https://i.ibb.co/gTXGHBp/3.png" alt="3" border="0" /></a>
 <br />
 <br />
 
