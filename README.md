@@ -80,8 +80,8 @@ In VirtualBox:
 <br/>
 Devices > Upgrade Guest Additions
 <br/>
+<br/>
 <a href="https://ibb.co/KwrZLwr"><img src="https://i.ibb.co/vYj5QYj/1.png" alt="1" border="0" /></a>
-<img src="https://ibb.co/KwrZLwr" height="80%" width="80%" alt="1"/>
 <br />
 <br />
 Now we are ready to start the project.
