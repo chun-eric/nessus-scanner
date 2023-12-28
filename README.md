@@ -51,7 +51,9 @@ First download VirtualBox
 https://www.virtualbox.org/
 <br/>
 <br/>
+<br/>
 After downloading the program, go through the installation process.
+<br/>
 <br/>
 Add your VM name, add folder and ISO image.
 <br/>
@@ -70,9 +72,10 @@ Click --> Next --> Install the computer.
 <br/>
 <br/>
 Voila! The installation is complete.
-
+<br/>
 <br/>
 Add guest additions because we can change screen resolution for our vm.
+<br/>
 <br/>
 In VirtualBox:
 <br/>
