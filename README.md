@@ -53,11 +53,21 @@ https://www.virtualbox.org/
 <br/>
 After downloading the program, go through the installation process.
 <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add your VM name, add folder and ISO image
+<br/>
+<br/>
+Check --> Unattended Guest OS Install Setup
+<br/>
+Complete Username and Password
+<br/>
+Add Hostname and Domain Name
+<br/>
+
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Confirm your selection:  <br/>
