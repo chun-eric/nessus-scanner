@@ -64,9 +64,11 @@ Complete Username and Password.
 <br/>
 Add Hostname and Domain Name
 <br/>
-Click --> Next --> Choose your hardware, base memory, processors.
+<p>
+ Click --> Next --> Choose your hardware, base memory, processors.
+</p>
 <br/>
-Click --> Next --> Choose your virtual hard disk.
+<p>Click --> Next --> Choose your virtual hard disk.</p>
 <br/>
 Click --> Next --> Install the computer.
 <br/>
