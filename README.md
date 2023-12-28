@@ -1,5 +1,5 @@
 
-<h1>Tenable Nessus Vulnerability Scanner and Remediation Home Lab Project</h1>
+<h1>Tenable Nessus Vulnerability Scanner and Remediation -- Home Lab Project</h1>
 
 
 <h2>Description</h2>
