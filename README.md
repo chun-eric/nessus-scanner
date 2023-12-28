@@ -62,10 +62,9 @@ Check --> Unattended Guest OS Install Setup.
 Complete Username and Password.
 <br/>
 <br/>
-Add Hostname and Domain Name
-<br/>
-<p>
- Click --> Next --> Choose your hardware, base memory, processors.
+<p>Add Hostname and Domain Name</p>
+
+<p>Click --> Next --> Choose your hardware, base memory, processors.
 </p>
 <p>Click --> Next --> Choose your virtual hard disk.</p>
 Click --> Next --> Install the computer.
