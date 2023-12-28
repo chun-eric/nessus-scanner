@@ -111,22 +111,22 @@ weaknesses so we can improve our VM security.
 <br />
 Go to:
 <p>Start > Settings > Update & Security > Pause Update for 7 days > Advance Options > Change to later date</p>
-<img src="4" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/qDsKNYN"><img src="https://i.ibb.co/rQ6Yx2x/4.png" alt="4" border="0" /></a>
 <br />
 <br />
 <p>Go back to:</p>
 <p>Update & Security > View update History > Uninstall updates</p>
-<img src="5" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/r3BVjwT"><img src="https://i.ibb.co/HCcjSH1/5.png" alt="5" border="0" /></a>
 <br />
 <p>Uninstall updates</p>
-<img src="6" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/RyXkbMS"><img src="https://i.ibb.co/rsBR0Lt/6.png" alt="6" border="0" /></a>
 <br/>
 <p>You can uninstall updates this way to:</p>
 <p>Control panel > Programs > Programs and Features > Installed Updates</p>
-<img src="7" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/6YNvgzp"><img src="https://i.ibb.co/5T2YBmz/7.png" alt="7" border="0" /></a>
 <br/>
 <p>Delete all Installed updates and restart the system.</p>
-<img src="8" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/kKRRf4H"><img src="https://i.ibb.co/7vww5nY/8.png" alt="8" border="0" /></a>
 <br/>
 <br/>
 Type: wf.msc
@@ -137,11 +137,11 @@ Do the following:
 <p>Go to Start > Windows Defender Firewall > Advanced settings > Windows Defender Firewall Properties  > Private Profile > Firewall state > Off > Apply</p>
 <p>Go to Start > Windows Defender Firewall > Advanced settings > Windows Defender Firewall Properties  > Public Profile > Firewall state > Off > Apply</p>
 <p>Restart System.</p>
-<img src="9" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/FJ8YHJ9"><img src="https://i.ibb.co/3WSFRWw/9.png" alt="9" border="0" /></a>
 <br/>
-<img src="10" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/0CNm4FG"><img src="https://i.ibb.co/6Hhr91W/10.png" alt="10" border="0" /></a>
 <br/>
-<img src="11" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/ryj3SCN"><img src="https://i.ibb.co/cTBwHGV/11.png" alt="11" border="0" /></a>
 <br/>
 <p>Last step we have to ensure that the VM is on the same network as the Nessus machine that will perform the scan.</p>
 <p>In VirtualBox click Devices > Network > Network Settings > Bridged Adapter </p>
@@ -152,7 +152,7 @@ Do the following:
 <p>Other computers on the network can communicate directly with the virtual machine.
 </p>
 <br/>
-<img src="12" height="80%" width="80%" alt=""/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5YQ7p2T/12.png" alt="12" border="0" /></a>
 <br/>
 <p>To confirm we are on the same network, we can try a simple ping test.</p>
 <p>Open a command prompt application or type cmd in the search box and run the command prompt as administrator.</p>
@@ -163,7 +163,7 @@ Do the following:
 <p>Type ping 192.168.0.105 (or your VM IP address)</p>
 <p>If we get a reply back that means the connection is good.</p>
 <br/>
-<img src="13" height="80%" width="80%" alt=""/>
+<a href="https://ibb.co/348nntQ"><img src="https://i.ibb.co/gmXxxsh/13.png" alt="13" border="0" /></a>
 
 
 <br/>
