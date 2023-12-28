@@ -21,6 +21,7 @@ address the identified vulnerabilities.
 - <b>Oracle Virtual Box</b> 
 
 <br/>
+<br/>
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -30,13 +31,11 @@ address the identified vulnerabilities.
 <br/>
 It's a complete package that contains all the files and settings needed to set up or restore a Windows computer to a particular state.
 <br/>
-<br/>
 We want to use this windows so we can install it in VirtualBox which is a virtual machine. 
 <br/>
 Virtual machines if configured correctly are like another computer within our computer and wont affect the host machine.
 <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
