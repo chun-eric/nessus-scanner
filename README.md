@@ -62,8 +62,15 @@ Complete Username and Password
 <br/>
 Add Hostname and Domain Name
 <br/>
+Click --> Next
+Choose your hardware, base memory, processors.
+<br/>
+Click --> Next
+Choose your virtual hard disk
+<br/>
 
-<img src="" height="80%" width="80%" alt=""/>
+
+<img src="image1" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Enter the number of passes: <br/>
