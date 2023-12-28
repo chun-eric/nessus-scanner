@@ -46,7 +46,6 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 <br></br>
 <h3>Step 2 - Download and Install Windows ISO image on VirtualBox</h3>
-<br />
 First download VirtualBox
 <br />
 https://www.virtualbox.org/
