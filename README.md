@@ -67,9 +67,7 @@ Add Hostname and Domain Name
 <p>
  Click --> Next --> Choose your hardware, base memory, processors.
 </p>
-<br/>
 <p>Click --> Next --> Choose your virtual hard disk.</p>
-<br/>
 Click --> Next --> Install the computer.
 <br/>
 <br/>
