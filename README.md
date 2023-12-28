@@ -142,7 +142,7 @@ Do the following:
 <img src="11" height="80%" width="80%" alt=""/>
 <br/>
 <p>Last step we have to ensure that the VM is on the same network as the Nessus machine that will perform the scan.</p>
-<p>In VirtualBox click Devices > Network > Network Settings >Bridged Adapter </p>
+<p>In VirtualBox click Devices > Network > Network Settings > Bridged Adapter </p>
 <p>Why a bridged adapter?</p>
 <p>With bridged networking, the virtual machine has direct access to an external Ethernet network.</p>
 <p>The virtual machine must have its own IP address on the external network.</p>
@@ -154,17 +154,17 @@ Do the following:
 <br/>
 <p>To confirm we are on the same network, we can try a simple ping test.</p>
 <p>Open a command prompt application or type cmd in the search box and run the command prompt as administrator.</p>
-<p>Type ipconfig --> ip address --> 192.168.0.105</p>
-<p>This will present you with a configuration of your network adapter, such as IP addresses of our VM, subnetmask, default gateway.</p>
-<p>What we are going to do now is ping our vm ip address from our local machine to see that we can connect to our VM from our local machine.</p>
+<p>Type ipconfig --> IP address --> 192.168.0.105</p>
+<p>This will present you with a configuration of your network adapter, such as IP addresses of our VM, subnet mask, default gateway.</p>
+<p>What we are going to do now is ping our VM IP address from our local machine to see that we can connect to our VM from our local machine.</p>
 <p>Using Windows Powershell as Administrator:</p>
-<p>type type ping 192.168.0.105 (or your vm ip address)</p>
+<p>Type ping 192.168.0.105 (or your VM IP address)</p>
 <p>If we get a reply back that means the connection is good.</p>
 <br/>
 <img src="13" height="80%" width="80%" alt=""/>
 
 
-
+<br/>
 <h3>Step 4 - Install Tenable Nessus </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
