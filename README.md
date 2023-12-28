@@ -5,27 +5,36 @@
 <h2>Description</h2>
 This project consisted of a configured Windows virtual machine (vm) on VirtualBox that has a whole bunch of outdated software and vulnerabilities purposely installed.  
 <br/>
+<br/>
+
 The goal of this project is to conduct a comprehensive vulnerability scan using Tenable Nessus configured to include credentialed scans and to showcase effective remediation strategies to 
 address the identified vulnerabilities.  
 <br />
 
 
 <h2>Languages or Utilities Used</h2>
-
 - <b>Tenable Nessus Vulnerability Scanner</b> 
 
 
 <h2>Environments Used </h2>
-
 - <b>Windows 10 ISO</b>
 - <b>Oracle Virtual Box</b> 
 
+<br/>
 <h2>Program walk-through:</h2>
 
 <p align="center">
 <h3>Step 1 - Download Windows Image</h3>
 <p>Why do we have to download a windows image? What is it even? </p>
 <p>A Windows image, in simple terms, is like a snapshot or a picture of the Windows operating system and the programs installed on it at a specific point in time.  </p>
+<br/>
+It's a complete package that contains all the files and settings needed to set up or restore a Windows computer to a particular state.
+<br/>
+<br/>
+We want to use this windows so we can install it in VirtualBox which is a virtual machine. 
+<br/>
+Virtual machines if configured correctly are like another computer within our computer and wont affect the host machine.
+<br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
