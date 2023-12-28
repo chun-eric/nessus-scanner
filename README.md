@@ -53,24 +53,33 @@ https://www.virtualbox.org/
 <br/>
 After downloading the program, go through the installation process.
 <br/>
-Add your VM name, add folder and ISO image
+Add your VM name, add folder and ISO image.
 <br/>
 <br/>
-Check --> Unattended Guest OS Install Setup
+Check --> Unattended Guest OS Install Setup.
 <br/>
-Complete Username and Password
+Complete Username and Password.
 <br/>
 Add Hostname and Domain Name
 <br/>
-Click --> Next
-Choose your hardware, base memory, processors.
+Click --> Next --> Choose your hardware, base memory, processors.
 <br/>
-Click --> Next
-Choose your virtual hard disk
+Click --> Next --> Choose your virtual hard disk.
+<br/>
+Click --> Next --> Install the computer.
+<br/>
+<br/>
+Voila! The installation is complete.
+
+<br/>
+Add guest additions because we can change screen resolution for our vm.
+<br/>
+In VirtualBox:
+<br/>
+Devices > Upgrade Guest Additions
 <br/>
 
-
-<img src="image1" height="80%" width="80%" alt=""/>
+<img src="1" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Enter the number of passes: <br/>
