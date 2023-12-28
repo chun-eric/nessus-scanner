@@ -51,7 +51,6 @@ First download VirtualBox
 https://www.virtualbox.org/
 <br/>
 <br/>
-<br/>
 After downloading the program, go through the installation process.
 <br/>
 <br/>
@@ -61,6 +60,7 @@ Add your VM name, add folder and ISO image.
 Check --> Unattended Guest OS Install Setup.
 <br/>
 Complete Username and Password.
+<br/>
 <br/>
 Add Hostname and Domain Name
 <br/>
