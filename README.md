@@ -28,7 +28,6 @@ address the identified vulnerabilities.
 <h3>Step 1 - Download Windows Image</h3>
 <p>Why do we have to download a windows image? What is it even? </p>
 <p>A Windows image, in simple terms, is like a snapshot or a picture of the Windows operating system and the programs installed on it at a specific point in time.  </p>
-<br/>
 It's a complete package that contains all the files and settings needed to set up or restore a Windows computer to a particular state.
 <br/>
 We want to use this windows so we can install it in VirtualBox which is a virtual machine. 
