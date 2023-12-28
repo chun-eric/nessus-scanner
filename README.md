@@ -4,6 +4,7 @@
 
 <h2>Description</h2>
 This project consisted of a configured Windows virtual machine (vm) on VirtualBox that has a whole bunch of outdated software and vulnerabilities purposely installed.  
+<br/>
 The goal of this project is to conduct a comprehensive vulnerability scan using Tenable Nessus configured to include credentialed scans and to showcase effective remediation strategies to 
 address the identified vulnerabilities.  
 <br />
