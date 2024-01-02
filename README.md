@@ -288,15 +288,19 @@ Confirm OK > Click Next
 
 <br></br>
 <h3>Step 6 - Our First Nessus Initial Scan (without Credentials) </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/0tjHYHm"><img src="https://i.ibb.co/YZ7HfHP/39.png" alt="39" border="0" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/FqXKSX4"><img src="https://i.ibb.co/dJtrdt4/40.png" alt="40" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/hHPqB1y"><img src="https://i.ibb.co/Y8zrcT3/41.png" alt="41" border="0" /></a>
 <br />
 <br />
 
@@ -304,90 +308,183 @@ Enter the number of passes: <br/>
 
 <br></br>
 <h3>Step 7 - Configuration of Credential Scan </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/cNt6xwk"><img src="https://i.ibb.co/Jz2vCqm/42.png" alt="42" border="0" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/rpLjN5B"><img src="https://i.ibb.co/5jz0wsQ/43.png" alt="43" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/3Fb2zrv"><img src="https://i.ibb.co/Lgym5kr/44.png" alt="44" border="0" /></a>
+<br />
+<br /><br/>
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Bccnbyz/45.png" alt="45" border="0" /></a>
+<br />
+<br /><br/>
+<br />
+<a href="https://ibb.co/rZFh8b6"><img src="https://i.ibb.co/wKBqGJW/46.png" alt="46" border="0" /></a>
+<br />
+<br /><br/>
+<br />
+<a href="https://ibb.co/vzxx0NL"><img src="https://i.ibb.co/LpzzVT9/47.png" alt="47" border="0" /></a>
+<br />
+<br /><br/>
+<br />
+<a href="https://ibb.co/z4W5nRb"><img src="https://i.ibb.co/S3Dxsn0/48.png" alt="48" border="0" /></a>
+<br />
+<br /><br/>
+<br />
+<a href="https://ibb.co/CP08jBT"><img src="https://i.ibb.co/dmKMNBz/49.png" alt="49" border="0" /></a>
 <br />
 <br />
+<br />
+<a href="https://ibb.co/xsLQ5f7"><img src="https://i.ibb.co/JdtPkys/50.png" alt="50" border="0" /></a>
+<br />
+<br />
+
 
 
 <br></br>
 <h3>Step 8 - Nessus Credential Scan </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/HqhVRzJ"><img src="https://i.ibb.co/rHdmq6W/51.png" alt="51" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<a href="https://ibb.co/7jT3K1R"><img src="https://i.ibb.co/n6VXjLn/52.png" alt="52" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/LR3MgW2"><img src="https://i.ibb.co/fFsbN5P/53.png" alt="53" border="0" /></a>
 <br />
 <br />
 
 
 <br></br>
 <h3>Step 9 - Installation of Vulnerable Software </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Jx60P2j/54.png" alt="54" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5KGrsXm/55.png" alt="55" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/HdXC9m3"><img src="https://i.ibb.co/vYDhM2R/56.png" alt="56" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/jZDNXb5"><img src="https://i.ibb.co/7NKfmjz/57.png" alt="57" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k5XMqv6/58.png" alt="58" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/txTNWK5/59.png" alt="59" border="0" /></a>
 <br />
 <br />
 
 
 <br></br>
 <h3>Step 10 - Advanced Nessus Scanning for Vulnerable Software </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/sj8VQnP"><img src="https://i.ibb.co/SNF30bx/60.png" alt="60" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<a href="https://ibb.co/ChBsMnC"><img src="https://i.ibb.co/t8BPxbj/61.png" alt="61" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/vZPnV3T"><img src="https://i.ibb.co/Ch7GmbY/62.png" alt="62" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/Lr3dnLy"><img src="https://i.ibb.co/68k0g3S/63.png" alt="63" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/ZKKjrRr"><img src="https://i.ibb.co/1KKgNYN/64.png" alt="64" border="0" /></a>
+<br />
+<br />
+
+
 
 
 <br></br>
 <h3>Step 11 - Remediation of Vulnerabilities </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/Wnj4vR6"><img src="https://i.ibb.co/F6CL4dK/65.png" alt="65" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sb7c76M/66.png" alt="66" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DR4qC83/67.png" alt="67" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/Sy6ZLnc"><img src="https://i.ibb.co/MSgJXVf/68.png" alt="68" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/HqbnZRj"><img src="https://i.ibb.co/VTz26bs/69.png" alt="69" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/BgW72YN"><img src="https://i.ibb.co/THjnMNL/70.png" alt="70" border="0" /></a>
+<br />
+<br />
+<br />
+<br />
+<a href="https://ibb.co/NVjxGKT"><img src="https://i.ibb.co/tmsB1DL/71.png" alt="71" border="0" /></a>
+<br />
+<br />
+
+
 
 
 <br></br>
 <h3>Step 12 - Conclusion and Final Scan Check </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run the scan again to check for any vulnerabilities:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/hXSFNwM"><img src="https://i.ibb.co/TKsMGdT/72.png" alt="72" border="0" /></a>
 <br />
 <br />
 
