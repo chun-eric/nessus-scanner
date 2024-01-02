@@ -230,18 +230,60 @@ Confirm OK > Click Next
 
 <br></br>
 <h3>Step 5 - Configure Nessus for Scanning </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/6B6ftf0"><img src="https://i.ibb.co/L542g2d/28.png" alt="28" border="0" /></a>
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/xLP1btR"><img src="https://i.ibb.co/RbZ3KkV/29.png" alt="29" border="0" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/wCnPLQ8"><img src="https://i.ibb.co/ft3ySNZ/30.png" alt="30" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://ibb.co/3SbhHd2"><img src="https://i.ibb.co/F817t32/31.png" alt="31" border="0" /></a>
 <br />
 <br />
-
+<br/>
+<br />
+<a href="https://ibb.co/KmGZC4T"><img src="https://i.ibb.co/4JfyBvh/32.png" alt="32" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/gyFW8kB"><img src="https://i.ibb.co/NxnNqcH/33.png" alt="33" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/3fqhyLV"><img src="https://i.ibb.co/ZHPT6kv/34.png" alt="34" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/CK94qHg"><img src="https://i.ibb.co/SwmH23b/35.png" alt="35" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/QdM9WVX"><img src="https://i.ibb.co/PQgx2yt/36.png" alt="36" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/KWwrH1D"><img src="https://i.ibb.co/njCLSWB/37.png" alt="37" border="0" /></a>
+<br />
+<br />
+<br/>
+<br />
+<a href="https://ibb.co/bHKJSxN"><img src="https://i.ibb.co/LQZ5LM9/38.png" alt="38" border="0" /></a>
+<br />
+<br />
 
 
 <br></br>
