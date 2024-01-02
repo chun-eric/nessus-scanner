@@ -181,15 +181,49 @@ Fill out the registration form and enter your email address. Click the get start
 <br />
 <br />
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/kcLFJ9w/17.png" alt="17" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Kyxq4mj/15.png" alt="15" border="0" /></a>
 <br />
 <br />
 <p>Once downloaded execute and open executable file. The Nessus file will be downloaded onto your local host.</p>
 <br/>
 Confirm OK > Click Next
 <p>Set your default destination</p>
-
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mNQP15G/16.png" alt="16" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kcLFJ9w/17.png" alt="17" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0V0HtNd/18.png" alt="18" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SdCLZ6q/19.png" alt="19" border="0" /></a>
+<br />
+<br />
+<a href="https://ibb.co/LhPrL9K"><img src="https://i.ibb.co/zH5FyPd/20.png" alt="20" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2HrbMQ/21.png" alt="21" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mGFWHDL/22.png" alt="22" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/R6hMvwJ/23.png" alt="23" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/tZS0hPC/24.png" alt="24" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dPPn1qJ/25.png" alt="25" border="0" /></a>
+<br />
+<br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6RBHC8R/26.png" alt="26" border="0" /></a>
+<br />
+<br />
+<a href="https://ibb.co/MSHNh5P"><img src="https://i.ibb.co/PjyCYz1/27.png" alt="27" border="0" /></a>
 <br />
 <br />
 
@@ -207,6 +241,7 @@ Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 
 
 <br></br>
