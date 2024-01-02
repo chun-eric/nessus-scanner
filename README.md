@@ -166,22 +166,35 @@ Do the following:
 <a href="https://ibb.co/348nntQ"><img src="https://i.ibb.co/gmXxxsh/13.png" alt="13" border="0" /></a>
 
 
-<br/>
+<br></br>
 <h3>Step 4 - Install Tenable Nessus </h3>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Now that our Windows machine is setup, we are ready to download and install Nessus a powerful network vulnerability scanner.</p>
+<p>Go to this website link to download the program. www.tenable.com/products/nessus/nessus-essentials</p>
+<br/>
+Fill out the registration form and enter your email address. Click the get started button.
+<br/>
+<p>Get your activation code in your email. </p>
+<p>Choose the appropriate version and plaftform, whether it is Mac, Linux or Windows. For me, I have chosen Windows 64 bit.</p>
+<p>Click > Download and then accept the license agreement.</p>
+<br/>
+<a href="https://ibb.co/ZTJHTrJ"><img src="https://i.ibb.co/bd3HdV3/14.png" alt="14" border="0" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kcLFJ9w/17.png" alt="17" border="0" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
+<p>Once downloaded execute and open executable file. The Nessus file will be downloaded onto your local host.</p>
+<br/>
+Confirm OK > Click Next
+<p>Set your default destination</p>
+
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 
-
+<br></br>
 <h3>Step 5 - Configure Nessus for Scanning </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -196,7 +209,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 6 - Our First Nessus Initial Scan (without Credentials) </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -212,7 +225,7 @@ Enter the number of passes: <br/>
 
 
 
-
+<br></br>
 <h3>Step 7 - Configuration of Credential Scan </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -227,7 +240,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 8 - Nessus Credential Scan </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -242,7 +255,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 9 - Installation of Vulnerable Software </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -257,7 +270,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 10 - Advanced Nessus Scanning for Vulnerable Software </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -272,7 +285,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 11 - Remediation of Vulnerabilities </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -287,7 +300,7 @@ Enter the number of passes: <br/>
 <br />
 
 
-
+<br></br>
 <h3>Step 12 - Conclusion and Final Scan Check </h3>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
