@@ -183,73 +183,61 @@ Fill out the registration form and enter your email address. Click the get start
 <p>Accept license agreement.</p>
 <p>Once downloaded execute and open executable file. The Nessus file will be downloaded onto your local host.</p>
 <p>Confirm OK > Click Next.</p>
+<p>Set your default destination.</p>
+<p>Once downloaded execute and open executable file. The Nessus file will be downloaded onto your local host.</p>
+Confirm OK > Click Next.
 <br/>
 <p>Set your default destination.</p>
-<br/>
-<br />
-<p>Once downloaded execute and open executable file. The Nessus file will be downloaded onto your local host.</p>
-<br/>
-Confirm OK > Click Next
-<p>Set your default destination</p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Kyxq4mj/15.png" alt="15" border="0" /></a>
 <br />
 <p>Click > Next </p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mNQP15G/16.png" alt="16" border="0" /></a>
 <p>Click > Next </p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/kcLFJ9w/17.png" alt="17" border="0" /></a>
 <p>Click > Finish </p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0V0HtNd/18.png" alt="18" border="0" /></a>
 <br />
-<p>Shortly after the initial installation, a new page in your private browser will open on localhost or port 8834 where you will finish installation process.</p>
 <br/>
+<p>Shortly after the initial installation, a new page in your private browser will open on localhost or port 8834 where you will finish installation process.</p>
 <p>Click > Connect via SSL</p>
-<br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/SdCLZ6q/19.png" alt="19" border="0" /></a>
 <br />
+<br/>
 <p>You might be a warning on the browser stating:</p>
 <p>Warning: Potential Security Risk Ahead.</p>
 <p>Select Advanced > Accept the Risk and Continue.</p>
-<br />
-<br />
 <a href="https://ibb.co/LhPrL9K"><img src="https://i.ibb.co/zH5FyPd/20.png" alt="20" border="0" /></a>
-<br />
+<br/>
+<br/>
 <p>A welcome to Nessus screen will appear.</p>
 <p>Select > Continue</p>
-<br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k2HrbMQ/21.png" alt="21" border="0" /></a>
-<br />
+<br/>
+<br/>
 <p>Choose how you want to deploy Nessus. Select an option to get started.</p>
 <p>Select Register for Nessus Essentials.</p>
-<br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mGFWHDL/22.png" alt="22" border="0" /></a>
-<br />
+<br/>
+<br/>
 <p>We can skip the registration process since we already have the activation code.</p>
 <p>Click > Skip</p>
-<br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/R6hMvwJ/23.png" alt="23" border="0" /></a>
 <br />
 <br />
-<p>Past your activation code that you received in your email.</p>
+<p>Paste the activation code you received in your email.</p>
 <p>Click > Continue.</p>
-<br />
 <br />
 <p>Next we need to create a Nessus administrator user account.</p>
 <p>Create a username and password.</p>
 <p>Click > Submit</p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dPPn1qJ/25.png" alt="25" border="0" /></a>
 <br />
 <br />
 <p>We might have to wait for a few minutes.</p>
-<br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6RBHC8R/26.png" alt="26" border="0" /></a>
 <br />
+<br/>
 <p>Once installation is complete we will configure and initialize our first scan.</p>
-<br />
 <a href="https://ibb.co/MSHNh5P"><img src="https://i.ibb.co/PjyCYz1/27.png" alt="27" border="0" /></a>
 <br />
 <br />
