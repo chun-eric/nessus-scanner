@@ -219,8 +219,7 @@ Confirm OK > Click Next.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k2HrbMQ/21.png" alt="21" border="0" /></a>
 <br/>
 <br/>
-<p>Choose how you want to deploy Nessus. Select an option to get started.</p>
-<p>Select Register for Nessus Essentials.</p>
+<p>Choose how you want to deploy Nessus. Select an option to get started. Select Register for Nessus Essentials.</p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mGFWHDL/22.png" alt="22" border="0" /></a>
 <br/>
 <br/>
@@ -232,8 +231,7 @@ Confirm OK > Click Next.
 <p>Paste the activation code you received in your email.</p>
 <p>Click > Continue.</p>
 <br />
-<p>Next we need to create a Nessus administrator user account.</p>
-<p>Create a username and password.</p>
+<p>Next we need to create a Nessus administrator user account.Create a username and password.</p>
 <p>Click > Submit</p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dPPn1qJ/25.png" alt="25" border="0" /></a>
 <br />
