@@ -1,4 +1,4 @@
-
+![image](https://github.com/chun-eric/nessus-scanner/assets/102393871/62a7ef2f-960f-4ec6-844d-a945bb78469b)
 <h1>Tenable Nessus Vulnerability Scanner and Remediation -- Home Lab Project</h1>
 
 
@@ -231,54 +231,152 @@ Confirm OK > Click Next
 <br></br>
 <h3>Step 5 - Configure Nessus for Scanning </h3>
 <br/>
+Now that its installed its time to perform our first scan
 <br />
+As soon as you land on the Nessus page you will be greeted by a welcome message
+<br/>
+<p>It also presents a target box. However let's have a look at all the scanning options.</p>
+<p>Click > My Scans > Create a new scan</p>
 <a href="https://ibb.co/6B6ftf0"><img src="https://i.ibb.co/L542g2d/28.png" alt="28" border="0" /></a>
 <br />
+A basic network scan is a good starting point for the overall security posture of your network.
+A basic network scan scans your network to identify open ports, running services and potential vulnerabilities on the hosts within the network
+We also have the ability to perform a malware scan.
 <br/>
 <br />
+<p>
+ A malware scan is designed to help you identify malware that may be present on your system.
+It scans for no malware signature as well as potentially unwanted programs and other suspicious activity.
+Running malware scan on a regular basis can help you detect and remove malware from your network.
+</p>
+<p>
+Wannacry ransomware scan is specifically designed to help you detect potential indicators of WannaCry ransomware on our network.
+Wannacray first appeared in May 2017 and spreads through a vulnerability in Microsoft Windows Systems.
+It encrypts users files and demands payment in exchange for the encryption key.
+Running this scan can help you take action to prevent its spread and protect your network from this type of attack.
+</p>
+<p>
+Shell scans can help you detect potential indicators of the log4 Shell vulnerability on your network.
+Log4 Shell was discovered in December 2021 and it affected the widely used Apache log4j logging library used by many applications and services.
+Attackers could use this vulnerability to execute arbitrary code remotely which could lead to complete compromise of affected systems.
+Running this scan can help you take action to protect your system from this critical vulnerability.
+</p>
 <a href="https://ibb.co/xLP1btR"><img src="https://i.ibb.co/RbZ3KkV/29.png" alt="29" border="0" /></a>
 <br />
 <br />
+Okay let's start with a basic network scan.
 <br/>
+<p>Click > Basic Network Scan</p>
 <br />
 <a href="https://ibb.co/wCnPLQ8"><img src="https://i.ibb.co/ft3ySNZ/30.png" alt="30" border="0" /></a>
 <br />
 <br />
+In the Settings tab we need to fill out two required fields: Name & Targets.
 <br/>
+Name = the name of your scan.
 <br />
+Targets = IP Address or subnet range you want to target (this is our VM IP address) 192.168.0.105
+<br/>
+Get creative with your scan name.
+<br/>
+Let's name our Name: Windows Basic Scan.
+<br/>
+Targets: VM IP Address. We can get that from Command Prompt by typing ipconfig.
+<br/>
 <a href="https://ibb.co/3SbhHd2"><img src="https://i.ibb.co/F817t32/31.png" alt="31" border="0" /></a>
 <br />
 <br />
+In the Settings Tab under BASIC > Schedule > We can schedule how often we get this scan.
 <br/>
+In the Settings Tab under BASIC > Notification > If you want to be notified that scan is done.
 <br />
 <a href="https://ibb.co/KmGZC4T"><img src="https://i.ibb.co/4JfyBvh/32.png" alt="32" border="0" /></a>
 <br />
 <br />
+<p>
+In Settings Tab under DISCOVER, we can change Port scan types to common ports, all ports or Custom.
+For now lets stick with the common ports.
+Port scan common ports use TCP, ARP, ICMP and uses SYN scanner if necessary.
+The most common ports are FTP, SSH, Telnet, SMTP.
+For now lets choose the Port Scan common.
+</p>
 <br/>
 <br />
+<br />
+<p>
+In Settings Tab under ASSESSMENT allows you to configure how the scanner performs the scan and what types of vulnerabilities it looks for
+There are two categories: General and Web Applications.
+</p>
+<br/>
+<br/>
+<p>
+Under general settings avoiding potential false alarms reduces the number alarms however it does miss legitimate vulnerabilities.
+In general settings you can also disable common gateway interface CGI scripts which could also miss legit vulnerabilities.
+CGI scripts are like little programs that help your web browser communicate with a web server.
+CGI scripts often used to process data like forms you fill out online, process search query.
+</p>
+<br/>
+<p>
+Under Web applications you can also disable web application scanning altogether
+Web applications can be exploited and targeted
+</p>
+<p>For now lets keep our Assessment setting to Default.
+</p>
+<br/>
 <a href="https://ibb.co/gyFW8kB"><img src="https://i.ibb.co/NxnNqcH/33.png" alt="33" border="0" /></a>
 <br />
 <br />
+<p>
+In Settings tab under REPORT,
+Here we can control how the scan results are processed and presented to user.
+We can adjust the level of detail to our specific needs and requirements.
+Lets just keep this as it is, for now.
+</p>
 <br/>
-<br />
 <a href="https://ibb.co/3fqhyLV"><img src="https://i.ibb.co/ZHPT6kv/34.png" alt="34" border="0" /></a>
 <br />
 <br />
+<p>
+Lastly in Settings tab under ADVANCED in the performance options we can control the number of hosts that will 
+be scanned at the same time and the network read timeout.
+Lets leave it as it is.
+</p>
 <br/>
 <br />
 <a href="https://ibb.co/CK94qHg"><img src="https://i.ibb.co/SwmH23b/35.png" alt="35" border="0" /></a>
 <br />
 <br />
+<p>
+Under the Credentials tab we can provide credentials and perform a scan with those credentials.
+Performing a credential scan with Nessus can provide several advantages over non credential scan.
+This can be information about installed software patch levels and system configurations that might be critical for detecting vulnerabilities and risk
+We will explore the difference scans with and without credentials later on.
+</p>
 <br/>
 <br />
 <a href="https://ibb.co/QdM9WVX"><img src="https://i.ibb.co/PQgx2yt/36.png" alt="36" border="0" /></a>
 <br />
 <br />
+<p>
+In the Plugins tab we have a lot of plugins or tools we can add different plugins for different types of vulnerabilities and risk.
+There is a huge library of plugins.
+Plugins are organized by families based on their function or type of vulnerability they target
+</p>
 <br/>
 <br />
+<p>
+We want to focus on detecting web application vulnerabilities, we can use the web application family of plugins.
+We want to focus on database vulnerabilties, we can use the database family of plugins.
+</p>
+<br/>
 <a href="https://ibb.co/KWwrH1D"><img src="https://i.ibb.co/njCLSWB/37.png" alt="37" border="0" /></a>
 <br />
 <br />
+<p>
+Now that we have a basic understanding, we can go back and save our scan.
+We have saved our first basic scan. Woohoo!
+All we have to do is click the Launch play button
+</p>
 <br/>
 <br />
 <a href="https://ibb.co/bHKJSxN"><img src="https://i.ibb.co/LQZ5LM9/38.png" alt="38" border="0" /></a>
