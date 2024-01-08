@@ -190,10 +190,15 @@ Confirm OK > Click Next.
 <p>Set your default destination.</p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Kyxq4mj/15.png" alt="15" border="0" /></a>
 <br />
+<br/>
 <p>Click > Next </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mNQP15G/16.png" alt="16" border="0" /></a>
+<br/>
+<br/>
 <p>Click > Next </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/kcLFJ9w/17.png" alt="17" border="0" /></a>
+<br/>
+<br/>
 <p>Click > Finish </p>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0V0HtNd/18.png" alt="18" border="0" /></a>
 <br />
