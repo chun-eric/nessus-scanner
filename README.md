@@ -258,21 +258,22 @@ As soon as you land on the Nessus page you will be greeted by a welcome message
 <a href="https://ibb.co/6B6ftf0"><img src="https://i.ibb.co/L542g2d/28.png" alt="28" border="0" /></a>
 <br />
 A basic network scan is a good starting point for the overall security posture of your network.
-A basic network scan scans your network to identify open ports, running services and potential vulnerabilities on the hosts within the network
-We also have the ability to perform a malware scan.
+<p>A basic network scan scans your network to identify open ports, running services and potential vulnerabilities on the hosts within the network.</p>
+<p>We also have the ability to perform a malware scan.
+</p>
 <br/>
-<br />
-<p>
- A malware scan is designed to help you identify malware that may be present on your system.
-It scans for no malware signature as well as potentially unwanted programs and other suspicious activity.
-Running malware scan on a regular basis can help you detect and remove malware from your network.
+<p>A malware scan is designed to help you identify malware that may be present on your system.
+</p>
+<p>It scans for no malware signature as well as potentially unwanted programs and other suspicious activity.
+</p>
+<p>Running malware scan on a regular basis can help you detect and remove malware from your network.
 </p>
 <p>
 Wannacry ransomware scan is specifically designed to help you detect potential indicators of WannaCry ransomware on our network.
 Wannacray first appeared in May 2017 and spreads through a vulnerability in Microsoft Windows Systems.
-It encrypts users files and demands payment in exchange for the encryption key.
-Running this scan can help you take action to prevent its spread and protect your network from this type of attack.
 </p>
+<p>It encrypts users files and demands payment in exchange for the encryption key.
+Running this scan can help you take action to prevent its spread and protect your network from this type of attack.</p>
 <p>
 Shell scans can help you detect potential indicators of the log4 Shell vulnerability on your network.
 Log4 Shell was discovered in December 2021 and it affected the widely used Apache log4j logging library used by many applications and services.
@@ -313,31 +314,25 @@ In the Settings Tab under BASIC > Notification > If you want to be notified that
 <br />
 <p>
 In Settings Tab under DISCOVER, we can change Port scan types to common ports, all ports or Custom.
-For now lets stick with the common ports.
-Port scan common ports use TCP, ARP, ICMP and uses SYN scanner if necessary.
-The most common ports are FTP, SSH, Telnet, SMTP.
-For now lets choose the Port Scan common.
-</p>
+For now lets stick with the common ports.</p>
+<p>Port scan common ports use TCP, ARP, ICMP and uses SYN scanner if necessary.
+The most common ports are FTP, SSH, Telnet, SMTP.</p>
+<p>For now lets choose the Port Scan common.</p>
 <br/>
 <br />
-<br />
 <p>
-In Settings Tab under ASSESSMENT allows you to configure how the scanner performs the scan and what types of vulnerabilities it looks for
+In Settings Tab under ASSESSMENT allows you to configure how the scanner performs the scan and what types of vulnerabilities it looks for.
 There are two categories: General and Web Applications.
 </p>
 <br/>
 <br/>
-<p>
-Under general settings avoiding potential false alarms reduces the number alarms however it does miss legitimate vulnerabilities.
-In general settings you can also disable common gateway interface CGI scripts which could also miss legit vulnerabilities.
-CGI scripts are like little programs that help your web browser communicate with a web server.
-CGI scripts often used to process data like forms you fill out online, process search query.
-</p>
+<p>Under general settings avoiding potential false alarms reduces the number alarms however it does miss legitimate vulnerabilities.
+In general settings you can also disable common gateway interface CGI scripts which could also miss legit vulnerabilities.</p>
+<p>CGI scripts are like little programs that help your web browser communicate with a web server.
+CGI scripts often used to process data like forms you fill out online, process search query.</p>
 <br/>
-<p>
-Under Web applications you can also disable web application scanning altogether
-Web applications can be exploited and targeted
-</p>
+<p>Under Web applications you can also disable web application scanning altogether
+Web applications can be exploited and targeted.</p>
 <p>For now lets keep our Assessment setting to Default.
 </p>
 <br/>
@@ -345,8 +340,7 @@ Web applications can be exploited and targeted
 <br />
 <br />
 <p>
-In Settings tab under REPORT,
-Here we can control how the scan results are processed and presented to user.
+In Settings tab under REPORT, we can control how the scan results are processed and presented to user.
 We can adjust the level of detail to our specific needs and requirements.
 Lets just keep this as it is, for now.
 </p>
@@ -354,11 +348,9 @@ Lets just keep this as it is, for now.
 <a href="https://ibb.co/3fqhyLV"><img src="https://i.ibb.co/ZHPT6kv/34.png" alt="34" border="0" /></a>
 <br />
 <br />
-<p>
-Lastly in Settings tab under ADVANCED in the performance options we can control the number of hosts that will 
-be scanned at the same time and the network read timeout.
-Lets leave it as it is.
-</p>
+<p>Lastly in Settings tab under ADVANCED in the performance options we can control the number of hosts that will 
+be scanned at the same time and the network read timeout.</p>
+<p>Lets leave it as it is.</p>
 <br/>
 <br />
 <a href="https://ibb.co/CK94qHg"><img src="https://i.ibb.co/SwmH23b/35.png" alt="35" border="0" /></a>
@@ -367,25 +359,23 @@ Lets leave it as it is.
 <p>
 Under the Credentials tab we can provide credentials and perform a scan with those credentials.
 Performing a credential scan with Nessus can provide several advantages over non credential scan.
-This can be information about installed software patch levels and system configurations that might be critical for detecting vulnerabilities and risk
-We will explore the difference scans with and without credentials later on.
 </p>
+<p>This can be information about installed software patch levels and system configurations that might be critical for detecting vulnerabilities and risk
+We will explore the difference scans with and without credentials later on.</p>
 <br/>
 <br />
 <a href="https://ibb.co/QdM9WVX"><img src="https://i.ibb.co/PQgx2yt/36.png" alt="36" border="0" /></a>
 <br />
 <br />
-<p>
-In the Plugins tab we have a lot of plugins or tools we can add different plugins for different types of vulnerabilities and risk.
+<p>In the Plugins tab we have a lot of plugins or tools we can add different plugins for different types of vulnerabilities and risk.
 There is a huge library of plugins.
-Plugins are organized by families based on their function or type of vulnerability they target
+</p>
+<p>Plugins are organized by families based on their function or type of vulnerability they target.
 </p>
 <br/>
 <br />
-<p>
-We want to focus on detecting web application vulnerabilities, we can use the web application family of plugins.
-We want to focus on database vulnerabilties, we can use the database family of plugins.
-</p>
+<p>We want to focus on detecting web application vulnerabilities, we can use the web application family of plugins.
+We want to focus on database vulnerabilties, we can use the database family of plugins.</p>
 <br/>
 <a href="https://ibb.co/KWwrH1D"><img src="https://i.ibb.co/njCLSWB/37.png" alt="37" border="0" /></a>
 <br />
@@ -405,16 +395,49 @@ All we have to do is click the Launch play button
 <br></br>
 <h3>Step 6 - Our First Nessus Initial Scan (without Credentials) </h3>
 <br/>
+<p>Okay you can press the launch button.</p>
+<p>Then click on the name of the scan you gave previously. For us its the Windows basic scan.</p>
+<p>Then you will be redirected to another window.</p>
+<p>You will see a Hosts tab with the scan running.</p>
+<p>The scan details will be shown on the right-hand side.</p>
+<p>As Vulnerabilities details will be shown below.</p>
 <br />
+<p>There will be 5 categories under vulnerabilities.</p>
+Critical
+<br/>
+High
+<br/>
+Medium
+<br/>
+Low
+<br/>
+Info
+<br/>
+<p>Click on the bar in the middle of the screen to access more detailed information.</p>
+<p>There you will see the names of the vulnerabilities.</p>
 <a href="https://ibb.co/0tjHYHm"><img src="https://i.ibb.co/YZ7HfHP/39.png" alt="39" border="0" /></a>
 <br />
 <br />
+<p>If you want to take it further you can keep clicking on each vulnerability.</p>
+<p>Lets take a closer look at one of them:</p>
+<p>Windows NetBIOS / SMB Remote Host Information Disclosure.</p>
 <br/>
+<p>Here you will receive very detailed information about the vulnerability.</p>
+<p>Description</p>
+<p>Output</p>
 <br />
+<p>Most cybercriminals often exploit vulnerabilities on Port 445 to spread wannacry.</p>
+<p>Wait for the scan to completely finish.</p>
+<br/>
 <a href="https://ibb.co/FqXKSX4"><img src="https://i.ibb.co/dJtrdt4/40.png" alt="40" border="0" /></a>
 <br />
 <br />
-<br/>
+<p>As you can see there is medium SMB Signing not required.</p>
+<p>Ours can be different as we are in 2023.</p>
+<p>Read the Description, Solution, See Also and Output.</p>
+<p>Again, its up to you remediate the steps.</p>
+<p>You can also view your previous scans in the History tab.</p>
+<p>We haven't found enough vulnerabilities, so let's change some settings to increase the vulnerabilities.</p>
 <br />
 <a href="https://ibb.co/hHPqB1y"><img src="https://i.ibb.co/Y8zrcT3/41.png" alt="41" border="0" /></a>
 <br />
@@ -425,41 +448,87 @@ All we have to do is click the Launch play button
 <br></br>
 <h3>Step 7 - Configuration of Credential Scan </h3>
 <br/>
+<p>We are going to add credentials to our saved window scan.</p>
+<p>First navigate to My Scans.</p>
+<p>Select your previous saved scan.</p>
+<p>Okay now in the top right corner there is configure button. Click it.</p>
 <br />
 <a href="https://ibb.co/cNt6xwk"><img src="https://i.ibb.co/Jz2vCqm/42.png" alt="42" border="0" /></a>
 <br />
 <br />
+<p>Then go to the Credentials Tab.</p>
+<p>Select Windows as our VM is Windows based.</p>
+<p>A new box to the right will appear titled Windows.</p>
+<p>There are several authentication method we can choose from.</p>
+<p>The password method requires the admin or user password to be provided for authentication.</p>
+<p>Kerberos is used when the target system is joined to a domain.</p>
+<p>For now lets pick the Password option.</p>
+<p>Fill in your Username, Password, Domain.</p>
 <br/>
+<br/>
+<p>If you cant remember your Username, Password, Domain etc. We don’t have a domain name.</p>
+<p>Go to Command Prompt and type:</p>
+<p>whoami or echo %username%</p>
+<p>Once you have filled out the credentials click save.</p>
 <br />
 <a href="https://ibb.co/rpLjN5B"><img src="https://i.ibb.co/5jz0wsQ/43.png" alt="43" border="0" /></a>
 <br />
 <br />
+<p>However you will receive a notification that the account user doesn’t have the necessary privileges if you try to run the scan.</p>
+<p>This is because the non-default administrator account isnt automatically added to the local group administrators and doesn’t have the appropriate rights to access all the system files and settings.</p>
+<p>To address this issue we need to perform a few additional steps.</p>
+<p>Its not complicated but it takes a bit of time. =(</p>
 <br/>
+<p>Go back to our Windows VM.</p>
+<p>Click Windows > search for "services".</p>
+<br/>
+<p>Find remote registry and double click.</p>
 <br />
 <a href="https://ibb.co/3Fb2zrv"><img src="https://i.ibb.co/Lgym5kr/44.png" alt="44" border="0" /></a>
 <br />
-<br /><br/>
+<br/>
+<p>In General Tab go to Startup type:  and then change to Automatic > Apply > OK</p>
+<p>Make sure you click Start in Service Status to enable > Apply </p>
+<p>This will allow you to remotely connect to the system registry database and perform different operations such as viewing registry keys and values.</p>
+<p></p>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Bccnbyz/45.png" alt="45" border="0" /></a>
 <br />
-<br /><br/>
+<br />
+<p>Search bar  'change User Account Control settings' and select.</p>
+<p>Under Choose when to be notified about changes to your computer >  slide down to Never notify > Click OK.</p>
+<p>This will prevent user account control prompts from interrupting our scan.</p>
 <br />
 <a href="https://ibb.co/rZFh8b6"><img src="https://i.ibb.co/wKBqGJW/46.png" alt="46" border="0" /></a>
 <br />
-<br /><br/>
+<br />
+<p>Type 'Registry Editor' in search bar.</p>
+<p>We need to create a new Dword Value in the Registry Editor.</p>
+<br/>
+<p>Click on HKEY_LOCAL_MACHINE > SOFTWARE > MICROSOFT > WINDOWS > CurrentVersion > Policies > System</p>
 <br />
 <a href="https://ibb.co/vzxx0NL"><img src="https://i.ibb.co/LpzzVT9/47.png" alt="47" border="0" /></a>
 <br />
-<br /><br/>
+<br />
+<p>In the System folder with your mouse hovering on the right screen, right click , select New > DWORD 32 bit Value.</p>
+<p>This will create a new registry value that you can name exactly as below.</p>
+<p>LocalAccountTokenFilterPolicy</p>
 <br />
 <a href="https://ibb.co/z4W5nRb"><img src="https://i.ibb.co/S3Dxsn0/48.png" alt="48" border="0" /></a>
-<br />
-<br /><br/>
 <br />
 <a href="https://ibb.co/CP08jBT"><img src="https://i.ibb.co/dmKMNBz/49.png" alt="49" border="0" /></a>
 <br />
 <br />
+<p>Double click on this newly created file.</p>
+<p>Change Value data to:</p>
+<p>1 Hexadecimal</p>
+<p>This will enable local account token filter policy which allows non-admin accounts to access admin resources on the system when using remote procedure call.</p>
 <br />
+<p>Restart computer to ensure changes take effect.</p>
+<br/>
+<p>Now Nessus will be able to use credential scanning to perform more comprehensive security scans of your system.</p>
+<p>Now we will be able to find more vulnerabilities.</p>
+<br/>
 <a href="https://ibb.co/xsLQ5f7"><img src="https://i.ibb.co/JdtPkys/50.png" alt="50" border="0" /></a>
 <br />
 <br />
@@ -469,18 +538,27 @@ All we have to do is click the Launch play button
 <br></br>
 <h3>Step 8 - Nessus Credential Scan </h3>
 <br/>
+<p>Click on the launch button again on the same scanner.</p>
 <br />
+<p>After you wait for the scan to finish check your findings.</p>
+<p>As you can see there is a lot more vulnerabilities.</p>
+<br/>
+<p>Look at the high vulnerabilities.</p>
+<p>Click on each one to see more detailed information about the vulnerability.</p>
 <br />
 <a href="https://ibb.co/HqhVRzJ"><img src="https://i.ibb.co/rHdmq6W/51.png" alt="51" border="0" /></a>
-<br />
-<br />
-<br />
 <br />
 <a href="https://ibb.co/7jT3K1R"><img src="https://i.ibb.co/n6VXjLn/52.png" alt="52" border="0" /></a>
 <br />
 <br />
+<p>In the video, teacher clicked on Security Updates for Microsoft .NET Framework December 2022 vulnerability.</p>
+<p>There are 2 vulnerabilities as shown by the CVE number.</p>
 <br />
+<p>If you want to know more about a particular CV.</p>
+<p>copy and paste CVE number into the browser.</p>
 <br />
+<p>Okay, great, let's start to install outdated software. </p>
+<br/>
 <a href="https://ibb.co/LR3MgW2"><img src="https://i.ibb.co/fFsbN5P/53.png" alt="53" border="0" /></a>
 <br />
 <br />
@@ -490,33 +568,93 @@ All we have to do is click the Launch play button
 <h3>Step 9 - Installation of Vulnerable Software </h3>
 <br/>
 <br />
+<p>Older Chrome browser versions Link
+![image](https://github.com/chun-eric/nessus-scanner/assets/102393871/6af7e9d6-1e0a-4c86-86e3-3d59e58edc8a)
+</p>
+<p>https://www.slimjet.com/chrome/google-chrome-old-version.php
+![image](https://github.com/chun-eric/nessus-scanner/assets/102393871/7f7a6766-3269-45e2-8d27-893944a58285)
+</p>
+<br/>
+<p>We will download a version from 2020.</p>
+<p>Lets add an outdated google chrome.</p>
+<p>Why?</p>
+<p>Because people keep passwords in google chrome and this could be a huge vulnerability.</p>
+<p>An attacker might gain access to our password.</p>
+<br/>
+<p>Go to the above link I added.</p>
+<br/>
+<p>Lets download version:</p>
+<p>61.0.3163.79</p>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jx60P2j/54.png" alt="54" border="0" /></a>
 <br />
 <br />
+<p>In order to get vulnerable software in the VM we need to change adapter setting again and put it back later.</p>
+<p>Its annoying but necessary.</p>
+<p>In the VM go to Devices > Network > Network Settings > Bridged Adapter.</p>
+<p>Bridged Adapter will give you internet connectivity.</p>
 <br />
+<p>Open installation wizard and install software.</p>
+<p>We don’t want Chrome to automatically update we need to do a few things.</p>
+<p>In Searchbar search for System Configuration.</p>
+<p>In the  Services Tab disable Google Update Service (gupdate and gupadatem).</p>
+<br/>
+<p>Click OK > Restart Computer.</p>
+<p>Now Chrome updates will be disabled.</p>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5KGrsXm/55.png" alt="55" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Lets also make advanced sharing settings in Network and Sharing Center  in control panel to :</p>
+<p>Network Discovery > Turn on</p>
+<p>File and printer sharing > Turn on</p>
 <br />
 <a href="https://ibb.co/HdXC9m3"><img src="https://i.ibb.co/vYDhM2R/56.png" alt="56" border="0" /></a>
 <br />
 <br />
+<p>If you check Chrome updates it wont be able to perform any updates.</p>
 <br />
+<p>To make our windows even more vulnerable.</p>
+<p>We will download an older version of minecraft with the log4j vulnerability.</p>
+<p>What was log4j?</p>
+<p>Individuals learned that games chat was being logged using log4j and if they entered malicious code into the chat, it led to remote code execution to be set.</p>
+<p>Above 50% of orgs use the Log4j library ---> HOLY SH*****T!</p>
 <br />
+<p>Older Minecraft Server.</p>
+<p>https://mcversions.net/download/1.18.1</p>
+<p>It was a huge vulnerability that shook the entire cybersecurity.</p>
+<br/>
+<p>So what we will do is download an older version of Minecraft server affected by this vulnerability.</p>
+<br/>
+<p>Check out the link for the minecraft net to download older versions of minecraft.</p>
+<p>https://mcversions.net</p>
+<br/>
+<p>Filter by year 2021.</p>
+<p>Choose Minecraft 1.18.1 Server Hosting.</p>
+<p>Server Jar > Download Server Jar.</p>
 <br />
 <a href="https://ibb.co/jZDNXb5"><img src="https://i.ibb.co/7NKfmjz/57.png" alt="57" border="0" /></a>
 <br />
 <br />
+<p>Because we don’t have a program to extract we will download an older zip extract vulnerable software.</p>
+<p>Its an older version of 7zip.</p>
 <br />
+<p>Link to older 7zip below.</p>
+<p>https://7-zip.en.uptodown.com/windows/versions</p>
+<p>lets get a 2019 version.</p>
 <br />
+<p>Choose version 19.00.</p>
+<p>Download and Install.</p>
+<br/>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k5XMqv6/58.png" alt="58" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Now extract Minecraft server file with 7zip.</p>
+<p>Very IMPORTANT!</p>
+<p>We must change our network adapter again back to Host-only Adapter!</p>
+<p>This is because we don’t want the VM having access to the outside Internet. Hmm maybe we don’t have to change it.</p>
+<p>Now we can find a lot of vulnerabilities if we scan again</p>
 <br />
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/txTNWK5/59.png" alt="59" border="0" /></a>
