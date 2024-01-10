@@ -665,30 +665,43 @@ Info
 <br></br>
 <h3>Step 10 - Advanced Nessus Scanning for Vulnerable Software </h3>
 <br />
+<p>Ok now lets run another scan.</p>
+<p>After the scan you can see a tonne of vulnerabilities!</p>
 <br />
 <a href="https://ibb.co/sj8VQnP"><img src="https://i.ibb.co/SNF30bx/60.png" alt="60" border="0" /></a>
 <br />
 <br />
-<br />
+<p>We have Google critical vulnerabilities.</p>
 <br />
 <a href="https://ibb.co/ChBsMnC"><img src="https://i.ibb.co/t8BPxbj/61.png" alt="61" border="0" /></a>
 <br />
 <br />
-<br />
+<p>One of the vulnerabilities is Apache Log4j.</p>
+<p>We can see that this vulnerability could be a huge issue.</p>
+<p>The Apache log4j if you click on it one of the vulnerability scores a CVSS score of 10.0!</p>
 <br />
 <a href="https://ibb.co/vZPnV3T"><img src="https://i.ibb.co/Ch7GmbY/62.png" alt="62" border="0" /></a>
 <br />
 <br />
-<br />
+<p>if you click on the link we can see more in depth description , solutions and output.</p>
+<p>Lets take a look at another example.</p>
+<p>If you click on the Google Chrome Vulnerability you can see there are many critical vulnerabilities.</p>
+<p>Take a note of the CVE number.</p>
 <br />
 <a href="https://ibb.co/Lr3dnLy"><img src="https://i.ibb.co/68k0g3S/63.png" alt="63" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Now its up to you to dig in and use the solution guide from Nessus to fix all the vulnerabilities.</p>
+<p>Okay another good thing about Nessus is that it can generate.</p>
+<p>REPORTS!</p>
+<p>Creating a report is very easy to do!</p>
+<p>Click Report button on top right.</p>
+<p>We can then share this report to our dev team for instance.</p>
 <br />
 <a href="https://ibb.co/ZKKjrRr"><img src="https://i.ibb.co/1KKgNYN/64.png" alt="64" border="0" /></a>
 <br />
 <br />
+<p>Now will update our system and enable automatic updates for applications. Also any malicious files that could potentially cause issues in the future will be removed.</p>
 
 
 
@@ -696,35 +709,51 @@ Info
 <br></br>
 <h3>Step 11 - Remediation of Vulnerabilities </h3>
 <br />
+<p>Remediation is actually quite boring but its an absolutely necessary in cybersecurity.</p>
+<p>Make sure you are on bridge network adapter or NAT to connect to the internet.</p>
+<p>Lets tackle each vulnerability from highest to lowest.</p>
+<p>First we need to ensure that our system is receiving the latest security patches.</p>
+<p>Go to Settings > Windows Update > Resume Updates.</p>
 <br />
 <a href="https://ibb.co/Wnj4vR6"><img src="https://i.ibb.co/F6CL4dK/65.png" alt="65" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Next turn on the updates for Google Chrome.</p>
+<p>System Configuration >  Services > Turn on both Google Update Service > Apply > OK</p>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/sb7c76M/66.png" alt="66" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Check that the firewall is on. We are also receiving firewall message saying to turn it on.</p>
+<p>Go to wf.msc</p>
+<p>turn on firewall properties for Domain, Private, Public.
+</p>
+<p>*NOTE* -- Best to do this process at the end as it will affect the scanner.</p>
 <br />
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DR4qC83/67.png" alt="67" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Next remove any threats.</p>
+<p>In our case remove Minecraft server file and old outdate zip files from the Downloads folder.</p>
 <br />
 <a href="https://ibb.co/Sy6ZLnc"><img src="https://i.ibb.co/MSgJXVf/68.png" alt="68" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Look at the Remediation tab. This will give you a high level overview of what to do.</p>
 <br />
 <a href="https://ibb.co/HqbnZRj"><img src="https://i.ibb.co/VTz26bs/69.png" alt="69" border="0" /></a>
 <br />
 <br />
-<br />
+<p>Confirm all updates are completed.</p>
+<p>Settings > Windows Update > Retry.</p>
+<p>Windows Update Patches should be downloading.</p>
 <br />
 <a href="https://ibb.co/BgW72YN"><img src="https://i.ibb.co/THjnMNL/70.png" alt="70" border="0" /></a>
 <br />
 <br />
+<p>Reboot the system.</p>
+<p>Run one more scan to see if vulnerabilities are fixed.</p>
+<p>Delete 7-zip or update it to the latest version.</p>
 <br />
 <br />
 <a href="https://ibb.co/NVjxGKT"><img src="https://i.ibb.co/tmsB1DL/71.png" alt="71" border="0" /></a>
@@ -737,6 +766,11 @@ Info
 <br></br>
 <h3>Step 12 - Conclusion and Final Scan Check </h3>
 <br />
+<p>Run the scan again to check for any vulnerabilities.</p>
+<p>If no vulnerabilities, great!</p>
+<p>Turn on firewall and everything should be remediated.
+![image](https://github.com/chun-eric/nessus-scanner/assets/102393871/816fc07b-d40a-425c-939b-d522ccc83d6b)
+</p>
 <br />
 <a href="https://ibb.co/hXSFNwM"><img src="https://i.ibb.co/TKsMGdT/72.png" alt="72" border="0" /></a>
 <br />
